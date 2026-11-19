@@ -1,0 +1,25 @@
+{
+  "_help": "Paste a direct image URL into \"url\" for any slot, then run: npm run images. Files are saved into public/images and shipped with your site, so nothing is loaded from the internet at runtime. Tip for Unsplash/Pexels links: add ?w=900&fm=jpg (hero: &fm=webp) to the URL. Use images you are licensed to use.",
+  "images": [
+    { "file": "public/images/hero.webp", "note": "Hero photo, transparent PNG/WebP works best (cut-out on a light background)", "url": "" },
+    { "file": "public/images/style/casual.jpg", "note": "Dress style card: Casual (about 800x560)", "url": "" },
+    { "file": "public/images/style/formal.jpg", "note": "Dress style card: Formal (about 1300x560)", "url": "" },
+    { "file": "public/images/style/party.jpg", "note": "Dress style card: Party (about 1300x560)", "url": "" },
+    { "file": "public/images/style/gym.jpg", "note": "Dress style card: Gym (about 800x560)", "url": "" },
+    { "file": "public/images/products/one-life-front.jpg", "note": "One Life Graphic T-shirt, front", "url": "" },
+    { "file": "public/images/products/one-life-back.jpg", "note": "One Life Graphic T-shirt, back", "url": "" },
+    { "file": "public/images/products/one-life-model.jpg", "note": "One Life Graphic T-shirt, on model", "url": "" },
+    { "file": "public/images/products/tape-tshirt.jpg", "note": "T-shirt with Tape Details", "url": "" },
+    { "file": "public/images/products/skinny-jeans.jpg", "note": "Skinny Fit Jeans", "url": "" },
+    { "file": "public/images/products/checkered-shirt.jpg", "note": "Checkered Shirt", "url": "" },
+    { "file": "public/images/products/sleeve-striped-tshirt.jpg", "note": "Sleeve Striped T-shirt", "url": "" },
+    { "file": "public/images/products/vertical-striped-shirt.jpg", "note": "Vertical Striped Shirt", "url": "" },
+    { "file": "public/images/products/courage-tshirt.jpg", "note": "Courage Graphic T-shirt", "url": "" },
+    { "file": "public/images/products/bermuda-shorts.jpg", "note": "Loose Fit Bermuda Shorts", "url": "" },
+    { "file": "public/images/products/faded-skinny-jeans.jpg", "note": "Faded Skinny Jeans", "url": "" },
+    { "file": "public/images/products/gradient-tshirt.jpg", "note": "Gradient Graphic T-shirt", "url": "" },
+    { "file": "public/images/products/polo-tipping.jpg", "note": "Polo with Tipping Details", "url": "" },
+    { "file": "public/images/products/black-striped-tshirt.jpg", "note": "Black Striped T-shirt", "url": "" },
+    { "file": "public/images/products/polo-contrast.jpg", "note": "Polo with Contrast Trims", "url": "" }
+  ]
+}
